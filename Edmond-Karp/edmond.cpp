@@ -67,7 +67,7 @@ void edmond(vector<vector<int>> f, int s, int t)
 	return;
 }
 
-int main(int argc, char** argv) {
+int main() {
     int m, i, l;
 
 	cin >> i >> l;
